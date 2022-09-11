@@ -1,22 +1,11 @@
-<h1 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p align="left">Welcome to my page! </br> I'm Rezuan, Fullstack developer from <img src="https://media.istockphoto.com/photos/bangladesh-flag-picture-id1130730047?b=1&k=20&m=1130730047&s=612x612&w=0&h=GR1RyS_340IlKdLZMTQ3LQ-MSUT0kZQkVlxVSY0sT-4=" width="13"/> <b>Dhaka, Bangladesh</b> </p>
-
-
-
-<p align="left">
+<p align="right">
   <img
     src="https://komarev.com/ghpvc/?username=rezuan-ahmed-git&label=Profile%20views&color=0e75b6&style=flat"
     alt="rezuan-ahmed-git"
   />
 </p>
-
-<p align="left">
-  <a href="https://twitter.com/rezuanahmed20" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/rezuanahmed20?logo=twitter&style=for-the-badge"
-      alt="rezuanahmed20"
-  /></a>
-</p>
+<h1 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<p align="left">Welcome to my page! </br> I'm Rezuan, Fullstack developer from <img src="https://media.istockphoto.com/photos/bangladesh-flag-picture-id1130730047?b=1&k=20&m=1130730047&s=612x612&w=0&h=GR1RyS_340IlKdLZMTQ3LQ-MSUT0kZQkVlxVSY0sT-4=" width="13"/> <b>Dhaka, Bangladesh</b> </p>
 
 - 🌱 I’m currently learning **MERN STACK** - 💬 Ask me about **JAVASCRIPT** - 📫
   How to reach me **rezuan.ahmed.pro@gmail.com**
@@ -48,6 +37,13 @@
       alt="rezuan-ahmed-72383b1a9"
       height="30"
       width="40"
+  /></a>
+</p>
+<p align="left">
+  <a href="https://twitter.com/rezuanahmed20" target="blank"
+    ><img
+      src="https://img.shields.io/twitter/follow/rezuanahmed20?logo=twitter&style=for-the-badge"
+      alt="rezuanahmed20"
   /></a>
 </p>
 
