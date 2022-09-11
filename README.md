@@ -20,6 +20,16 @@
 
 - 🌱 I’m currently learning **MERN STACK** - 💬 Ask me about **JAVASCRIPT** - 📫
   How to reach me **rezuan.ahmed.pro@gmail.com**
+<ul>
+<li>
+<p align="left">
+ 🤓 Level 2 freelancer on
+  <a href="https://www.fiverr.com/rezuan_ahmed" target="blank"
+    >Fiverr
+  </a> 🎉
+</p>
+</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
