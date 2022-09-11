@@ -61,7 +61,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 <p align="center">
 <a href="https://www.fiverr.com/rezuan_ahmed" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://www.fiverr.com/rezuan_ahmed-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/rezuan-ahmed-72383b1a9/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@rezuan-ahmed-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rezuan-ahmed-72383b1a9/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@rezuanahmed-blue?style=flat&logo=linkedin"></a>
 <a href="https://twitter.com/RezuanAhmed20" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@RezuanAhmed20-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:rezuan.ahmed.pro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rezuan.ahmed.pro@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
