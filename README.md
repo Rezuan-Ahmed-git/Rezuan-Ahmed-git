@@ -40,15 +40,6 @@ I have excellent design & coding skills, as well as an ability to convert requir
     alt="rezuan-ahmed-git"
   />
 </p>
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rezuan-ahmed-git&show_icons=true&locale=en&layout=compact"
-    alt="rezuan-ahmed-git"
-  />
-</p>
-
 <p>
   <img
     align="center"
