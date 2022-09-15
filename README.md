@@ -5,7 +5,7 @@
 
 ### Hi there I'm [Rezuan Ahmed](https://www.fiverr.com/rezuan_ahmed) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-> Freelance Web Developer at [Fiverr](https://www.fiverr.com/rezuan_ahmed)
+> Freelance Fullstack Web Developer at [Fiverr](https://www.fiverr.com/rezuan_ahmed)
 
 <img
     src="https://komarev.com/ghpvc/?username=rezuan-ahmed-git&label=Profile%20views&color=0e75b6&style=flat"
@@ -14,7 +14,7 @@
 
 <div>
  <p>
-I am a Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+I am a Fullstack Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 
