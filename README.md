@@ -5,7 +5,7 @@
 
 ### Hi there I'm [Rezuan Ahmed](https://www.fiverr.com/rezuan_ahmed) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-> Freelance Full Stack Web Developer at [Fiverr](https://www.fiverr.com/rezuan_ahmed)
+> Freelance Frontend Web Developer at [Fiverr](https://www.fiverr.com/rezuan_ahmed)
 
 <img
     src="https://komarev.com/ghpvc/?username=rezuan-ahmed-git&label=Profile%20views&color=0e75b6&style=flat"
