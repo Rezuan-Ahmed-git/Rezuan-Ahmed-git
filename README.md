@@ -49,6 +49,29 @@ I have excellent design & coding skills, as well as an ability to convert requir
     alt="rezuan-ahmed-git"
   />
 </p>
+<details>
+ <summary>GitHub Activity Graphs</summary>
+  <p align="center">:round_pushpin: GitHub Activity Graph</p>  
+    <div align="center">
+     <a href="https://github.com/Rezuan-Ahmed-git">
+      <img height="160em alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rezuan-Ahmed-git&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11">
+    </div>    
+ <br>
+    <div align="center">
+     <a href="https://github.com/Rezuan-Ahmed-git">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rezuan-Ahmed-git&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </div>
+ <br>
+    <div align="center">
+      <a href="https://github.com/Rezuan-Ahmed-git">
+       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezuan-Ahmed-git&layout=compact&langs_count=7&theme=dracula"/>
+    </div>
+    <br>
+        <div align="center">
+     <a href="https://github.com/Rezuan-Ahmed-git">
+      <img height="160em alt="Streak Graphics" src="https://github-readme-streak-stats.herokuapp.com/?user=Rezuan-Ahmed-git&theme=dracula">
+    </div>
+</details>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
