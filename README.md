@@ -33,45 +33,22 @@ I have excellent design & coding skills, as well as an ability to convert requir
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongo" width="24">](https://www.mongodb.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" width="24">](https://www.postgresql.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" width="24">](https://redis.io/) | Material UI | many more... |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | ------------ |
 
-### Github Stats
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=rezuan-ahmed-git&show_icons=true&locale=en"
-    alt="rezuan-ahmed-git"
-  />
-</p>
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rezuan-ahmed-git&"
-    alt="rezuan-ahmed-git"
-  />
-</p>
-<details>
- <summary>GitHub Activity Graphs</summary>
-  <p align="center">:round_pushpin: GitHub Activity Graph</p>  
-    <div align="center">
-     <a href="https://github.com/Rezuan-Ahmed-git">
-      <img height="160em alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rezuan-Ahmed-git&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11">
-    </div>    
+### Github Stats       
  <br>
-    <div align="center">
+    <div align="left">
      <a href="https://github.com/Rezuan-Ahmed-git">
       <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rezuan-Ahmed-git&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </div>
  <br>
-    <div align="center">
+    <div align="left">
       <a href="https://github.com/Rezuan-Ahmed-git">
        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezuan-Ahmed-git&layout=compact&langs_count=7&theme=dracula"/>
     </div>
     <br>
-        <div align="center">
+        <div align="left">
      <a href="https://github.com/Rezuan-Ahmed-git">
       <img height="160em alt="Streak Graphics" src="https://github-readme-streak-stats.herokuapp.com/?user=Rezuan-Ahmed-git&theme=dracula">
     </div>
-</details>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
