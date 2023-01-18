@@ -40,10 +40,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
       <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rezuan-Ahmed-git&show_icons=true&include_all_commits=true&count_private=true,prs&cache_seconds=86400&theme=dark"/>
     </div>
  <br>
- <div align="left">
-     <a href="https://github.com/Rezuan-Ahmed-git">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezuan-Ahmed-git&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true&theme=dark"/>
-    </div>
+ 
  <br>
         <div align="left">
      <a href="https://github.com/Rezuan-Ahmed-git">
